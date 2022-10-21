@@ -7,23 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/rozay10_" target="blank"><img src="https://img.shields.io/twitter/follow/rozay10_?logo=twitter&style=for-the-badge" alt="rozay10_" /></a> </p>
 
-- 🔭 I’m currently working on **VCA**
+- 🔭 I’m currently working on **Healthtracka platforms**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
-- 👨‍💻 All of my projects are available at [devgbolade.github.io](devgbolade.github.io)
-
-- 📝 I regularly write articles on [comingsonn](comingsonn)
-
-- 💬 Ask me about **React, Javascript and Nodejs**
+- 💬 Ask me about **React, Laravel, React Native, Javascript and Nodejs**
 
 - 📫 How to reach me **devgbolade@gmail.com**
 
-- 📄 Know about my experiences [devgbolade.github.io](devgbolade.github.io)
-
-- ⚡ Fun fact **I enjoy playing and watching soccer a lot.**
+- ⚡ Fun fact **I enjoy the sound of the rain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
