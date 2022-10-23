@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I’m Agbolade Adeniyi. I live in Africa, where I design the future.</h1>
-<h3 align="center">A passionate Full-Stack developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I’m Agbolade Adeniyi.</h1>
+<h3 align="center">I live in Africa, where I design the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devgbolade&label=Profile%20views&color=0e75b6&style=flat" alt="devgbolade" /> </p>
 
