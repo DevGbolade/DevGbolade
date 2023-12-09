@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I’m Agbolade Adeniyi.</h1>
-<h3 align="center">I live in Africa, where I design the future.</h3>
+<h3 align="center">I live in the CLI, where I design the future.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devgbolade&label=Profile%20views&color=0e75b6&style=flat" alt="devgbolade" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
-- 💬 Ask me about **React, Laravel, React Native, Javascript and Nodejs**
+- 💬 Ask me about **React, Angular, React Native, Nextjs, Nestjs, Javascript, Nodejs and Python**
 
 - 📫 How to reach me **devgbolade@gmail.com**
 
