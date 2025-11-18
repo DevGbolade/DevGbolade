@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/rozay10_" target="blank"><img src="https://img.shields.io/twitter/follow/rozay10_?logo=twitter&style=for-the-badge" alt="rozay10_" /></a> </p> -->
 
-- 🔭 I’m currently working on **Healthtracka platforms**
+- 🔭 I’m currently working on an OS **Audit as a service**  Project
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Generative and MLOPS**
 
-- 👯 I’m looking to collaborate on **Open source Projects**
+- 👯 I’m looking to collaborate on exciting **Open source Projects**
 
-- 💬 Ask me about **React, Angular, React Native, Nextjs, Nestjs, Javascript, Nodejs and Python**
+- 💬 Ask me about **React, Angular, React Native, Nextjs, Nestjs, Typescript, Nodejs and Python**
 
 - 📫 How to reach me **devgbolade@gmail.com**
 
