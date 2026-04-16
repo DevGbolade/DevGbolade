@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on an OS **AI Backend Onboarding**  Project
 
-- 🌱 I’m currently learning **Generative AI and MLOPS**
+- 🌱 I’m currently learning **ML and MLOPS**
 
 - 👯 I’m looking to collaborate on exciting **Open source Projects**
 
