@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rozay10_" target="blank"><img src="https://img.shields.io/twitter/follow/rozay10_?logo=twitter&style=for-the-badge" alt="rozay10_" /></a> </p> -->
 
-- 🔭 I’m currently working on an OS **AI Backend Onboarding**  Project
+- 🔭 I’m currently working on an **AI Backend Onboarding**  Project
 
 - 🌱 I’m currently learning **ML and MLOPS**
 
